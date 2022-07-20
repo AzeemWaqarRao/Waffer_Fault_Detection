@@ -55,40 +55,24 @@ class dbOperartions:
 
         onlyfiles = [f for f in listdir("Good_Raw_Files")]
 
-        # for file in onlyfiles:
-        #     try:
-        #         with open("Good_Raw_Files/" + file, "r") as f:
-        #             next(f)
-        #             reader = csv.reader(f, delimiter="\n")
-        #             for line in enumerate(reader):
-        #                 for list_ in (line[1]):
-        #
-        #                     try:
-        #                         conn.execute('INSERT INTO Good_Raw_Data values ({values})'.format(values=list_))
-        #                         print("here")
-        #                         conn.commit()
-        #                     except Exception as e:
-        #                         print("exception")
-        #                         raise e
-        #
-        #     except Exception as e:
-        #
-        #         pass
-        #
-        # conn.close()
         for file in onlyfiles:
+            try:
+                with open("Good_Raw_Files/" + file, "r") as f:
+                    next(f)
+                    reader = csv.reader(f, delimiter="\n")
+                    for line in enumerate(reader):
+                        for list_ in (line[1]):
 
-            with open("Good_Raw_Files/" + file, "r") as f:
-                next(f)
-                reader = csv.reader(f, delimiter="\n")
-                for line in enumerate(reader):
-                    for list_ in (line[1]):
+                            try:
+                                conn.execute('INSERT INTO Good_Raw_Data values ({values})'.format(values=list_))
+                                print("here")
+                                conn.commit()
+                            except Exception as e:
+                                print("exception")
+                                raise e
 
+            except Exception as e:
 
-                        conn.execute('INSERT INTO Good_Raw_Data values ({values})'.format(values=list_))
-                        print("here")
-                        conn.commit()
-
-
+                pass
 
         conn.close()
