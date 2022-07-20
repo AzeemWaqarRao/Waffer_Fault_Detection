@@ -1,6 +1,10 @@
 import sqlite3
 from os import listdir
 import csv
+
+import pandas as pd
+
+
 class dbOperartions:
 
     def createConn(self,name):
@@ -48,31 +52,18 @@ class dbOperartions:
             pass
 
 
-    def savetoDB(self,name):
+    def savetoDB(self,name,column_names):
+
+        df = pd.read_csv("Training_Data.csv")
+
+        df = df.iloc[:, 1:]
+        df.columns = (list(column_names.keys()))
+
 
         conn = self.createConn(name)
+        df.to_sql('Good_Raw_Data', conn, if_exists='append', index=False)
 
-
-        onlyfiles = [f for f in listdir("Good_Raw_Files")]
-
-        for file in onlyfiles:
-            try:
-                with open("Good_Raw_Files/" + file, "r") as f:
-                    next(f)
-                    reader = csv.reader(f, delimiter="\n")
-                    for line in enumerate(reader):
-                        for list_ in (line[1]):
-
-                            try:
-                                conn.execute('INSERT INTO Good_Raw_Data values ({values})'.format(values=list_))
-                                print("here")
-                                conn.commit()
-                            except Exception as e:
-                                print("exception")
-                                raise e
-
-            except Exception as e:
-
-                pass
-
+        c = conn.cursor()
+        c.execute('SELECT * FROM Good_Raw_Data')
+        conn.commit()
         conn.close()

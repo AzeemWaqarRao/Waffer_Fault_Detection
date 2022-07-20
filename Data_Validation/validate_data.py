@@ -3,6 +3,8 @@ from os import listdir
 import re
 import shutil
 import pandas as pd
+import glob
+import os
 
 class Data_Validation:
 
@@ -80,4 +82,13 @@ class Data_Validation:
            pass
 
 
+    def mergeFiles(self):
 
+
+        files = os.path.join("Good_Raw_Files", "*.csv")
+
+
+        files = glob.glob(files)
+
+        df = pd.concat(map(pd.read_csv, files), ignore_index=True)
+        df.iloc[:, 1:].to_csv("Training_Data.csv")
