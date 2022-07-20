@@ -92,3 +92,15 @@ class Data_Validation:
 
         df = pd.concat(map(pd.read_csv, files), ignore_index=True)
         df.iloc[:, 1:].to_csv("Training_Data.csv")
+
+
+    def deleteRawFiles(self):
+
+        dir = 'Good_Raw_Files'
+        for f in os.listdir(dir):
+            os.remove(os.path.join(dir, f))
+
+        dir = 'Bad_Raw_Files'
+        for f in os.listdir(dir):
+            os.remove(os.path.join(dir, f))
+

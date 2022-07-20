@@ -23,8 +23,9 @@ class Training_Validation:
         self.dv.mergeFiles()
         self.db.createTable("Training_Data",column_names)
         self.db.savetoDB("Training_Data",column_names)
+        self.dv.deleteRawFiles()
 
-        
+
 
 
 
