@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.impute import KNNImputer
 
 class Preprocessor:
 
@@ -9,7 +10,14 @@ class Preprocessor:
 
         X,y = self.splitData(data)
 
-        self.isNull(data)
+        isNull = self.isNull(data)
+
+        if(isNull):
+            X = self.imputeNullValues(X)
+            X.to_csv("X.csv")
+
+        X = self.dropColwithZeroStd(X)
+        X.to_csv("X.csv")
 
 
 
@@ -42,3 +50,23 @@ class Preprocessor:
             null_df.to_csv("Model/null_data_count.csv")
 
         return isNull
+
+    def imputeNullValues(self,data):
+        data = pd.DataFrame(data)
+
+        impute = KNNImputer(n_neighbors=5, weights="uniform")
+        temp = impute.fit_transform(data)
+        data = pd.DataFrame(temp,columns=data.columns)
+        return data
+
+
+    def dropColwithZeroStd(self,data):
+        data = pd.DataFrame(data)
+
+        dic = data.describe()
+
+        for i in data.columns:
+            if dic[i]['std'] == 0:
+                data = data.drop([i],axis=1)
+
+        return data
