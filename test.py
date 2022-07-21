@@ -4,5 +4,6 @@ Here I test Stuff before Implementing!
 
 from Clustering.clustering import Clustering
 
-cl = Clustering()
-cl.clustering()
+import pandas as pd
+
+print(pd.read_csv('y.csv'))

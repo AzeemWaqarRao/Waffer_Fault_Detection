@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.cluster import KMeans
 from kneed import KneeLocator
 import matplotlib.pyplot as plt
+from File_Ops.file_ops import File_Ops
 
 
 class Clustering:
@@ -37,6 +38,9 @@ class Clustering:
         kmeans = KMeans(n_clusters=k, init="k-means++", random_state=101)
         kmeans = kmeans.fit_predict(data)
         data['cluster']=kmeans
+        file_ops = File_Ops()
+        file_ops.save_model(kmeans,"kmeans")
         return data
+
 
 
