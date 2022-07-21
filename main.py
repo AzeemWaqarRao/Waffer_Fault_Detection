@@ -1,5 +1,6 @@
 from Training_Validation.training_validation import Training_Validation
 from Model.preprocessing import Preprocessor
+from Clustering.clustering import Clustering
 import os
 
 
@@ -18,4 +19,9 @@ tv.validate_data()
 
 pr = Preprocessor()
 pr.preprocess()
+
+cl = Clustering()
+X , list_of_clusters = cl.clustering()
+print(X)
+
 
