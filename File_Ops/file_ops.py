@@ -19,3 +19,14 @@ class File_Ops:
             pickle.dump(model, f)
 
 
+    def load_model(self,name):
+        path = os.path.join("Model",name,name+".sav")
+        with open(path,'rb') as f:
+            return pickle.load(f)
+
+    def find_model(self,i):
+        for filename in os.listdir("Model"):
+            if(str(filename).__contains__(str(i))):
+                return filename
+
+

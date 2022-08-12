@@ -1,0 +1,15 @@
+2022-08-11/01:11:59		Clustering Started!
+2022-08-11/01:12:02		optimum value of k is : 3
+2022-08-11/01:12:02		Clusters Created!
+2022-08-11/01:12:02		Kmeans Trained Model Saved!
+2022-08-11/01:12:02		Clustering Completed!
+2022-08-11/01:34:52		Clustering Started!
+2022-08-11/01:34:55		optimum value of k is : 3
+2022-08-11/01:34:55		Clusters Created!
+2022-08-11/01:34:55		Kmeans Trained Model Saved!
+2022-08-11/01:34:55		Clustering Completed!
+2022-08-11/01:35:22		Clustering Started!
+2022-08-11/01:35:25		optimum value of k is : 3
+2022-08-11/01:35:26		Clusters Created!
+2022-08-11/01:35:26		Kmeans Trained Model Saved!
+2022-08-11/01:35:26		Clustering Completed!

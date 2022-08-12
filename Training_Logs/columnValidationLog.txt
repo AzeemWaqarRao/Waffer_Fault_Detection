@@ -1,0 +1,527 @@
+2022-08-10/02:16:44		Column Length Validation Started!!
+2022-08-10/02:16:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+2022-08-10/02:16:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+2022-08-10/02:16:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+2022-08-10/02:16:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+2022-08-10/02:16:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+2022-08-10/02:16:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+2022-08-10/02:28:42		Column Length Validation Started!!
+2022-08-10/02:28:42		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+2022-08-10/02:28:42		Valid file!! :: wafer_07012020_041011.csv
+2022-08-10/02:28:42		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_13012020_090817.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_16012020_051629.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_20012020_090819.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_20022020_090716.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_21012020_080913.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_22022020_041119.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_23012020_011008.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_23012020_041211.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+2022-08-10/02:28:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_27012020_080911.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_28012020_051011.csv
+2022-08-10/02:28:43		Valid file!! :: wafer_28012020_090817.csv
+2022-08-10/02:28:44		Valid file!! :: wafer_28042020_031911.csv
+2022-08-10/02:28:44		Valid file!! :: wafer_29012020_050617.csv
+2022-08-10/02:28:44		Valid file!! :: wafer_29012020_060756.csv
+2022-08-10/02:28:44		Valid file!! :: wafer_31012020_090811.csv
+2022-08-10/14:38:50		Column Length Validation Started!!
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_07012020_041011.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_13012020_090817.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_16012020_051629.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_20012020_090819.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_20022020_090716.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_21012020_080913.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_22022020_041119.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_23012020_011008.csv
+2022-08-10/14:38:51		Valid file!! :: wafer_23012020_041211.csv
+2022-08-10/14:38:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+2022-08-10/14:38:52		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+2022-08-10/14:38:52		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+2022-08-10/14:38:52		Valid file!! :: wafer_27012020_080911.csv
+2022-08-10/14:38:52		Valid file!! :: wafer_28012020_051011.csv
+2022-08-10/14:38:52		Valid file!! :: wafer_28012020_090817.csv
+2022-08-10/14:38:52		Valid file!! :: wafer_28042020_031911.csv
+2022-08-10/14:38:52		Valid file!! :: wafer_29012020_050617.csv
+2022-08-10/14:38:52		Valid file!! :: wafer_29012020_060756.csv
+2022-08-10/14:38:52		Valid file!! :: wafer_31012020_090811.csv
+2022-08-10/14:40:37		Column Length Validation Started!!
+2022-08-10/14:40:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+2022-08-10/14:40:37		Valid file!! :: wafer_07012020_041011.csv
+2022-08-10/14:40:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+2022-08-10/14:40:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+2022-08-10/14:40:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+2022-08-10/14:40:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+2022-08-10/14:40:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+2022-08-10/14:40:37		Valid file!! :: wafer_13012020_090817.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_16012020_051629.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_20012020_090819.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_20022020_090716.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_21012020_080913.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_22022020_041119.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_23012020_011008.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_23012020_041211.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+2022-08-10/14:40:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_27012020_080911.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_28012020_051011.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_28012020_090817.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_28042020_031911.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_29012020_050617.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_29012020_060756.csv
+2022-08-10/14:40:38		Valid file!! :: wafer_31012020_090811.csv
+2022-08-11/01:59:27		Column Length Validation Started!!
+2022-08-11/01:59:27		Valid file!! :: wafer_07012020_041011.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_13012020_090817.csv
+2022-08-11/01:59:27		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-11/01:59:27		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_16012020_051629.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_20012020_090819.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_20022020_090716.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_21012020_080913.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_22022020_041119.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_23012020_011008.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_23012020_041211.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_27012020_080911.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_28012020_051011.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_28012020_090817.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_28042020_031911.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_29012020_050617.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_29012020_060756.csv
+2022-08-11/01:59:27		Valid file!! :: wafer_31012020_090811.csv
+2022-08-11/14:20:34		Column Length Validation Started!!
+2022-08-11/14:20:34		Valid file!! :: wafer_07012020_041011.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_13012020_090817.csv
+2022-08-11/14:20:34		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-11/14:20:34		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_16012020_051629.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_20012020_090819.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_20022020_090716.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_21012020_080913.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_22022020_041119.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_23012020_011008.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_23012020_041211.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_27012020_080911.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_28012020_051011.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_28012020_090817.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_28042020_031911.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_29012020_050617.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_29012020_060756.csv
+2022-08-11/14:20:34		Valid file!! :: wafer_31012020_090811.csv
+2022-08-11/15:10:01		Column Length Validation Started!!
+2022-08-11/15:10:01		Valid file!! :: wafer_07012020_041011.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_13012020_090817.csv
+2022-08-11/15:10:01		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-11/15:10:01		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_16012020_051629.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_20012020_090819.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_20022020_090716.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_21012020_080913.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_22022020_041119.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_23012020_011008.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_23012020_041211.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_27012020_080911.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_28012020_051011.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_28012020_090817.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_28042020_031911.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_29012020_050617.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_29012020_060756.csv
+2022-08-11/15:10:01		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/11:56:46		Column Length Validation Started!!
+2022-08-12/11:56:46		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/11:56:46		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/11:56:46		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/11:56:46		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/11:56:47		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/11:56:48		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/11:56:48		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/11:56:48		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/11:56:48		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/11:56:48		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/12:06:03		Column Length Validation Started!!
+2022-08-12/12:06:03		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/12:06:03		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/12:06:03		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/12:06:03		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/12:06:03		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/12:06:03		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/12:06:03		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/12:06:03		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/12:06:04		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/12:14:21		Column Length Validation Started!!
+2022-08-12/12:14:21		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/12:14:21		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/12:14:21		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/12:14:21		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/12:16:43		Column Length Validation Started!!
+2022-08-12/12:16:43		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/12:16:43		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/12:16:43		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/12:16:43		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/12:16:44		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/12:17:38		Column Length Validation Started!!
+2022-08-12/12:17:38		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/12:17:38		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/12:17:38		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/12:17:39		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/12:17:39		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/12:18:20		Column Length Validation Started!!
+2022-08-12/12:18:20		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/12:18:20		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/12:18:20		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/12:18:20		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/14:50:13		Column Length Validation Started!!
+2022-08-12/14:50:13		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/14:50:13		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/14:50:13		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/14:50:13		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/14:53:06		Column Length Validation Started!!
+2022-08-12/14:53:06		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/14:53:06		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/14:53:06		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/14:53:06		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/14:53:06		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/14:53:06		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/14:53:07		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/14:54:21		Column Length Validation Started!!
+2022-08-12/14:54:21		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/14:54:21		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/14:54:21		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/14:54:22		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/14:54:22		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/14:55:40		Column Length Validation Started!!
+2022-08-12/14:55:40		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/14:55:40		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/14:55:40		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/14:55:40		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/14:56:01		Column Length Validation Started!!
+2022-08-12/14:56:01		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/14:56:01		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/14:56:01		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/14:56:02		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/14:56:02		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/14:56:15		Column Length Validation Started!!
+2022-08-12/14:56:15		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/14:56:15		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/14:56:15		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/14:56:15		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/14:59:26		Column Length Validation Started!!
+2022-08-12/14:59:26		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/14:59:26		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/14:59:27		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/14:59:27		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/14:59:27		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/15:00:49		Column Length Validation Started!!
+2022-08-12/15:00:49		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/15:00:49		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/15:00:49		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/15:00:49		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/15:00:49		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/15:00:49		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/15:00:49		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/15:00:50		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/15:07:47		Column Length Validation Started!!
+2022-08-12/15:07:47		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/15:07:47		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/15:07:47		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/15:07:47		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/15:07:48		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/15:07:48		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/15:07:48		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/15:09:48		Column Length Validation Started!!
+2022-08-12/15:09:48		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/15:09:48		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/15:09:48		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/15:09:48		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/15:09:48		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/15:09:48		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/15:09:48		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/15:09:48		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/15:09:48		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/15:09:48		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/15:09:49		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/15:11:49		Column Length Validation Started!!
+2022-08-12/15:11:49		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/15:11:49		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/15:11:49		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/15:11:49		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/15:11:50		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/15:11:50		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/15:11:50		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/15:11:50		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/15:11:50		Valid file!! :: wafer_31012020_090811.csv
+2022-08-12/21:52:12		Column Length Validation Started!!
+2022-08-12/21:52:12		Valid file!! :: wafer_07012020_041011.csv
+2022-08-12/21:52:12		Valid file!! :: wafer_13012020_090817.csv
+2022-08-12/21:52:12		Valid file!! :: Wafer_13012020_141000.csv
+2022-08-12/21:52:12		Valid file!! :: Wafer_14012020_113045.csv
+2022-08-12/21:52:12		Valid file!! :: wafer_16012020_051629.csv
+2022-08-12/21:52:12		Valid file!! :: wafer_20012020_090819.csv
+2022-08-12/21:52:12		Valid file!! :: wafer_20022020_090716.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_21012020_080913.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_22022020_041119.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_23012020_011008.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_23012020_041211.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_27012020_080911.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_28012020_051011.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_28012020_090817.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_28042020_031911.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_29012020_050617.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_29012020_060756.csv
+2022-08-12/21:52:13		Valid file!! :: wafer_31012020_090811.csv

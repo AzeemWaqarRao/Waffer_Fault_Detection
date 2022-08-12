@@ -1,0 +1,360 @@
+2022-08-11/02:10:35		Prediction Started
+2022-08-11/02:10:35		Kmeans Loaded
+2022-08-11/02:10:35		Prediction Started for cluster 1
+2022-08-11/02:10:35		Model Loaded : XGBoost1
+2022-08-11/02:10:35		Computation Started
+2022-08-11/02:10:35		Computation Completed
+2022-08-11/02:10:35		Prediction cluster 1 stored in prediction.csv 
+2022-08-11/02:10:35		Prediction Started for cluster 0
+2022-08-11/02:10:35		Model Loaded : XGBoost0
+2022-08-11/02:10:35		Computation Started
+2022-08-11/02:10:35		Computation Completed
+2022-08-11/02:10:35		Prediction cluster 0 stored in prediction.csv 
+2022-08-11/02:10:35		Prediction Started for cluster 2
+2022-08-11/02:10:35		Model Loaded : XGBoost2
+2022-08-11/02:10:35		Computation Started
+2022-08-11/02:10:35		Computation Completed
+2022-08-11/02:10:35		Prediction cluster 2 stored in prediction.csv 
+2022-08-11/02:10:35		Prediction Completed
+2022-08-11/14:20:42		Prediction Started
+2022-08-11/14:20:42		Kmeans Loaded
+2022-08-11/14:20:42		Prediction Started for cluster 1
+2022-08-11/14:20:42		Model Loaded : XGBoost1
+2022-08-11/14:20:42		Computation Started
+2022-08-11/14:20:42		Computation Completed
+2022-08-11/14:20:42		Prediction cluster 1 stored in prediction.csv 
+2022-08-11/14:20:42		Prediction Started for cluster 0
+2022-08-11/14:20:42		Model Loaded : XGBoost0
+2022-08-11/14:20:42		Computation Started
+2022-08-11/14:20:42		Computation Completed
+2022-08-11/14:20:42		Prediction cluster 0 stored in prediction.csv 
+2022-08-11/14:20:42		Prediction Started for cluster 2
+2022-08-11/14:20:42		Model Loaded : XGBoost2
+2022-08-11/14:20:42		Computation Started
+2022-08-11/14:20:43		Computation Completed
+2022-08-11/14:20:43		Prediction cluster 2 stored in prediction.csv 
+2022-08-11/14:20:43		Prediction Completed
+2022-08-11/15:10:12		Prediction Started
+2022-08-11/15:10:12		Kmeans Loaded
+2022-08-11/15:10:12		Prediction Started for cluster 1
+2022-08-11/15:10:12		Model Loaded : XGBoost1
+2022-08-11/15:10:12		Computation Started
+2022-08-11/15:10:12		Computation Completed
+2022-08-11/15:10:12		Prediction cluster 1 stored in prediction.csv 
+2022-08-11/15:10:12		Prediction Started for cluster 0
+2022-08-11/15:10:12		Model Loaded : XGBoost0
+2022-08-11/15:10:12		Computation Started
+2022-08-11/15:10:12		Computation Completed
+2022-08-11/15:10:12		Prediction cluster 0 stored in prediction.csv 
+2022-08-11/15:10:12		Prediction Started for cluster 2
+2022-08-11/15:10:12		Model Loaded : XGBoost2
+2022-08-11/15:10:12		Computation Started
+2022-08-11/15:10:12		Computation Completed
+2022-08-11/15:10:12		Prediction cluster 2 stored in prediction.csv 
+2022-08-11/15:10:12		Prediction Completed
+2022-08-12/11:57:10		Prediction Started
+2022-08-12/11:57:10		Kmeans Loaded
+2022-08-12/11:57:10		Prediction Started for cluster 1
+2022-08-12/11:57:10		Model Loaded : XGBoost1
+2022-08-12/11:57:10		Computation Started
+2022-08-12/11:57:10		Computation Completed
+2022-08-12/11:57:10		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/11:57:10		Prediction Started for cluster 0
+2022-08-12/11:57:10		Model Loaded : XGBoost0
+2022-08-12/11:57:10		Computation Started
+2022-08-12/11:57:10		Computation Completed
+2022-08-12/11:57:10		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/11:57:10		Prediction Started for cluster 2
+2022-08-12/11:57:10		Model Loaded : XGBoost2
+2022-08-12/11:57:10		Computation Started
+2022-08-12/11:57:10		Computation Completed
+2022-08-12/11:57:10		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/11:57:10		Prediction Completed
+2022-08-12/12:06:18		Prediction Started
+2022-08-12/12:06:18		Kmeans Loaded
+2022-08-12/12:06:19		Prediction Started for cluster 1
+2022-08-12/12:06:19		Model Loaded : XGBoost1
+2022-08-12/12:06:19		Computation Started
+2022-08-12/12:06:19		Computation Completed
+2022-08-12/12:06:19		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/12:06:19		Prediction Started for cluster 0
+2022-08-12/12:06:19		Model Loaded : XGBoost0
+2022-08-12/12:06:19		Computation Started
+2022-08-12/12:06:19		Computation Completed
+2022-08-12/12:06:19		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/12:06:19		Prediction Started for cluster 2
+2022-08-12/12:06:19		Model Loaded : XGBoost2
+2022-08-12/12:06:19		Computation Started
+2022-08-12/12:06:19		Computation Completed
+2022-08-12/12:06:19		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/12:06:19		Prediction Completed
+2022-08-12/12:14:29		Prediction Started
+2022-08-12/12:14:29		Kmeans Loaded
+2022-08-12/12:14:30		Prediction Started for cluster 1
+2022-08-12/12:14:30		Model Loaded : XGBoost1
+2022-08-12/12:14:30		Computation Started
+2022-08-12/12:14:30		Computation Completed
+2022-08-12/12:14:30		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/12:14:30		Prediction Started for cluster 0
+2022-08-12/12:14:30		Model Loaded : XGBoost0
+2022-08-12/12:14:30		Computation Started
+2022-08-12/12:14:30		Computation Completed
+2022-08-12/12:14:30		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/12:14:30		Prediction Started for cluster 2
+2022-08-12/12:14:30		Model Loaded : XGBoost2
+2022-08-12/12:14:30		Computation Started
+2022-08-12/12:14:30		Computation Completed
+2022-08-12/12:14:30		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/12:14:30		Prediction Completed
+2022-08-12/12:16:59		Prediction Started
+2022-08-12/12:16:59		Kmeans Loaded
+2022-08-12/12:16:59		Prediction Started for cluster 1
+2022-08-12/12:16:59		Model Loaded : XGBoost1
+2022-08-12/12:16:59		Computation Started
+2022-08-12/12:16:59		Computation Completed
+2022-08-12/12:16:59		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/12:16:59		Prediction Started for cluster 0
+2022-08-12/12:16:59		Model Loaded : XGBoost0
+2022-08-12/12:16:59		Computation Started
+2022-08-12/12:16:59		Computation Completed
+2022-08-12/12:16:59		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/12:16:59		Prediction Started for cluster 2
+2022-08-12/12:16:59		Model Loaded : XGBoost2
+2022-08-12/12:16:59		Computation Started
+2022-08-12/12:16:59		Computation Completed
+2022-08-12/12:16:59		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/12:16:59		Prediction Completed
+2022-08-12/12:17:47		Prediction Started
+2022-08-12/12:17:47		Kmeans Loaded
+2022-08-12/12:17:47		Prediction Started for cluster 1
+2022-08-12/12:17:47		Model Loaded : XGBoost1
+2022-08-12/12:17:47		Computation Started
+2022-08-12/12:17:47		Computation Completed
+2022-08-12/12:17:47		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/12:17:47		Prediction Started for cluster 0
+2022-08-12/12:17:47		Model Loaded : XGBoost0
+2022-08-12/12:17:47		Computation Started
+2022-08-12/12:17:47		Computation Completed
+2022-08-12/12:17:47		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/12:17:47		Prediction Started for cluster 2
+2022-08-12/12:17:47		Model Loaded : XGBoost2
+2022-08-12/12:17:47		Computation Started
+2022-08-12/12:17:47		Computation Completed
+2022-08-12/12:17:47		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/12:17:47		Prediction Completed
+2022-08-12/12:18:29		Prediction Started
+2022-08-12/12:18:29		Kmeans Loaded
+2022-08-12/12:18:29		Prediction Started for cluster 1
+2022-08-12/12:18:29		Model Loaded : XGBoost1
+2022-08-12/12:18:29		Computation Started
+2022-08-12/12:18:29		Computation Completed
+2022-08-12/12:18:29		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/12:18:29		Prediction Started for cluster 0
+2022-08-12/12:18:29		Model Loaded : XGBoost0
+2022-08-12/12:18:29		Computation Started
+2022-08-12/12:18:29		Computation Completed
+2022-08-12/12:18:29		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/12:18:29		Prediction Started for cluster 2
+2022-08-12/12:18:29		Model Loaded : XGBoost2
+2022-08-12/12:18:29		Computation Started
+2022-08-12/12:18:29		Computation Completed
+2022-08-12/12:18:29		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/12:18:29		Prediction Completed
+2022-08-12/14:50:22		Prediction Started
+2022-08-12/14:50:22		Kmeans Loaded
+2022-08-12/14:50:23		Prediction Started for cluster 1
+2022-08-12/14:50:23		Model Loaded : XGBoost1
+2022-08-12/14:50:23		Computation Started
+2022-08-12/14:50:23		Computation Completed
+2022-08-12/14:50:23		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/14:50:23		Prediction Started for cluster 0
+2022-08-12/14:50:23		Model Loaded : XGBoost0
+2022-08-12/14:50:23		Computation Started
+2022-08-12/14:50:23		Computation Completed
+2022-08-12/14:50:23		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/14:50:23		Prediction Started for cluster 2
+2022-08-12/14:50:23		Model Loaded : XGBoost2
+2022-08-12/14:50:23		Computation Started
+2022-08-12/14:50:23		Computation Completed
+2022-08-12/14:50:23		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/14:50:23		Prediction Completed
+2022-08-12/14:53:16		Prediction Started
+2022-08-12/14:53:16		Kmeans Loaded
+2022-08-12/14:53:16		Prediction Started for cluster 1
+2022-08-12/14:53:16		Model Loaded : XGBoost1
+2022-08-12/14:53:16		Computation Started
+2022-08-12/14:53:16		Computation Completed
+2022-08-12/14:53:16		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/14:53:16		Prediction Started for cluster 0
+2022-08-12/14:53:16		Model Loaded : XGBoost0
+2022-08-12/14:53:16		Computation Started
+2022-08-12/14:53:16		Computation Completed
+2022-08-12/14:53:16		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/14:53:16		Prediction Started for cluster 2
+2022-08-12/14:53:16		Model Loaded : XGBoost2
+2022-08-12/14:53:16		Computation Started
+2022-08-12/14:53:16		Computation Completed
+2022-08-12/14:53:16		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/14:53:16		Prediction Completed
+2022-08-12/14:54:31		Prediction Started
+2022-08-12/14:54:31		Kmeans Loaded
+2022-08-12/14:54:31		Prediction Started for cluster 1
+2022-08-12/14:54:31		Model Loaded : XGBoost1
+2022-08-12/14:54:31		Computation Started
+2022-08-12/14:54:31		Computation Completed
+2022-08-12/14:54:31		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/14:54:31		Prediction Started for cluster 0
+2022-08-12/14:54:31		Model Loaded : XGBoost0
+2022-08-12/14:54:31		Computation Started
+2022-08-12/14:54:31		Computation Completed
+2022-08-12/14:54:31		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/14:54:31		Prediction Started for cluster 2
+2022-08-12/14:54:31		Model Loaded : XGBoost2
+2022-08-12/14:54:31		Computation Started
+2022-08-12/14:54:31		Computation Completed
+2022-08-12/14:54:31		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/14:54:31		Prediction Completed
+2022-08-12/14:56:10		Prediction Started
+2022-08-12/14:56:10		Kmeans Loaded
+2022-08-12/14:56:10		Prediction Started for cluster 1
+2022-08-12/14:56:10		Model Loaded : XGBoost1
+2022-08-12/14:56:10		Computation Started
+2022-08-12/14:56:10		Computation Completed
+2022-08-12/14:56:10		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/14:56:10		Prediction Started for cluster 0
+2022-08-12/14:56:10		Model Loaded : XGBoost0
+2022-08-12/14:56:10		Computation Started
+2022-08-12/14:56:10		Computation Completed
+2022-08-12/14:56:10		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/14:56:10		Prediction Started for cluster 2
+2022-08-12/14:56:10		Model Loaded : XGBoost2
+2022-08-12/14:56:10		Computation Started
+2022-08-12/14:56:10		Computation Completed
+2022-08-12/14:56:10		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/14:56:10		Prediction Completed
+2022-08-12/14:56:24		Prediction Started
+2022-08-12/14:56:24		Kmeans Loaded
+2022-08-12/14:56:24		Prediction Started for cluster 1
+2022-08-12/14:56:24		Model Loaded : XGBoost1
+2022-08-12/14:56:24		Computation Started
+2022-08-12/14:56:24		Computation Completed
+2022-08-12/14:56:24		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/14:56:24		Prediction Started for cluster 0
+2022-08-12/14:56:24		Model Loaded : XGBoost0
+2022-08-12/14:56:24		Computation Started
+2022-08-12/14:56:24		Computation Completed
+2022-08-12/14:56:24		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/14:56:24		Prediction Started for cluster 2
+2022-08-12/14:56:24		Model Loaded : XGBoost2
+2022-08-12/14:56:24		Computation Started
+2022-08-12/14:56:24		Computation Completed
+2022-08-12/14:56:24		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/14:56:24		Prediction Completed
+2022-08-12/14:59:36		Prediction Started
+2022-08-12/14:59:36		Kmeans Loaded
+2022-08-12/14:59:36		Prediction Started for cluster 1
+2022-08-12/14:59:36		Model Loaded : XGBoost1
+2022-08-12/14:59:36		Computation Started
+2022-08-12/14:59:36		Computation Completed
+2022-08-12/14:59:36		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/14:59:36		Prediction Started for cluster 0
+2022-08-12/14:59:36		Model Loaded : XGBoost0
+2022-08-12/14:59:36		Computation Started
+2022-08-12/14:59:36		Computation Completed
+2022-08-12/14:59:36		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/14:59:36		Prediction Started for cluster 2
+2022-08-12/14:59:36		Model Loaded : XGBoost2
+2022-08-12/14:59:36		Computation Started
+2022-08-12/14:59:36		Computation Completed
+2022-08-12/14:59:36		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/14:59:36		Prediction Completed
+2022-08-12/15:01:00		Prediction Started
+2022-08-12/15:01:00		Kmeans Loaded
+2022-08-12/15:01:00		Prediction Started for cluster 1
+2022-08-12/15:01:00		Model Loaded : XGBoost1
+2022-08-12/15:01:00		Computation Started
+2022-08-12/15:01:00		Computation Completed
+2022-08-12/15:01:00		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/15:01:00		Prediction Started for cluster 0
+2022-08-12/15:01:00		Model Loaded : XGBoost0
+2022-08-12/15:01:00		Computation Started
+2022-08-12/15:01:00		Computation Completed
+2022-08-12/15:01:00		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/15:01:00		Prediction Started for cluster 2
+2022-08-12/15:01:00		Model Loaded : XGBoost2
+2022-08-12/15:01:00		Computation Started
+2022-08-12/15:01:01		Computation Completed
+2022-08-12/15:01:01		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/15:01:01		Prediction Completed
+2022-08-12/15:07:55		Prediction Started
+2022-08-12/15:07:55		Kmeans Loaded
+2022-08-12/15:07:56		Prediction Started for cluster 1
+2022-08-12/15:07:56		Model Loaded : XGBoost1
+2022-08-12/15:07:56		Computation Started
+2022-08-12/15:07:56		Computation Completed
+2022-08-12/15:07:56		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/15:07:56		Prediction Started for cluster 0
+2022-08-12/15:07:56		Model Loaded : XGBoost0
+2022-08-12/15:07:56		Computation Started
+2022-08-12/15:07:56		Computation Completed
+2022-08-12/15:07:56		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/15:07:56		Prediction Started for cluster 2
+2022-08-12/15:07:56		Model Loaded : XGBoost2
+2022-08-12/15:07:56		Computation Started
+2022-08-12/15:07:56		Computation Completed
+2022-08-12/15:07:56		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/15:07:56		Prediction Completed
+2022-08-12/15:09:56		Prediction Started
+2022-08-12/15:09:56		Kmeans Loaded
+2022-08-12/15:09:56		Prediction Started for cluster 1
+2022-08-12/15:09:56		Model Loaded : XGBoost1
+2022-08-12/15:09:56		Computation Started
+2022-08-12/15:09:56		Computation Completed
+2022-08-12/15:09:56		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/15:09:56		Prediction Started for cluster 0
+2022-08-12/15:09:56		Model Loaded : XGBoost0
+2022-08-12/15:09:56		Computation Started
+2022-08-12/15:09:57		Computation Completed
+2022-08-12/15:09:57		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/15:09:57		Prediction Started for cluster 2
+2022-08-12/15:09:57		Model Loaded : XGBoost2
+2022-08-12/15:09:57		Computation Started
+2022-08-12/15:09:57		Computation Completed
+2022-08-12/15:09:57		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/15:09:57		Prediction Completed
+2022-08-12/15:11:57		Prediction Started
+2022-08-12/15:11:57		Kmeans Loaded
+2022-08-12/15:11:57		Prediction Started for cluster 1
+2022-08-12/15:11:57		Model Loaded : XGBoost1
+2022-08-12/15:11:57		Computation Started
+2022-08-12/15:11:58		Computation Completed
+2022-08-12/15:11:58		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/15:11:58		Prediction Started for cluster 0
+2022-08-12/15:11:58		Model Loaded : XGBoost0
+2022-08-12/15:11:58		Computation Started
+2022-08-12/15:11:58		Computation Completed
+2022-08-12/15:11:58		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/15:11:58		Prediction Started for cluster 2
+2022-08-12/15:11:58		Model Loaded : XGBoost2
+2022-08-12/15:11:58		Computation Started
+2022-08-12/15:11:58		Computation Completed
+2022-08-12/15:11:58		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/15:11:58		Prediction Completed
+2022-08-12/21:52:32		Prediction Started
+2022-08-12/21:52:32		Kmeans Loaded
+2022-08-12/21:52:33		Prediction Started for cluster 1
+2022-08-12/21:52:33		Model Loaded : XGBoost1
+2022-08-12/21:52:33		Computation Started
+2022-08-12/21:52:33		Computation Completed
+2022-08-12/21:52:33		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/21:52:33		Prediction Started for cluster 0
+2022-08-12/21:52:33		Model Loaded : XGBoost0
+2022-08-12/21:52:33		Computation Started
+2022-08-12/21:52:33		Computation Completed
+2022-08-12/21:52:33		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/21:52:33		Prediction Started for cluster 2
+2022-08-12/21:52:33		Model Loaded : XGBoost2
+2022-08-12/21:52:33		Computation Started
+2022-08-12/21:52:33		Computation Completed
+2022-08-12/21:52:33		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/21:52:33		Prediction Completed

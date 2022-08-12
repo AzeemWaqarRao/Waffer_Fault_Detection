@@ -5,23 +5,50 @@ import shutil
 import pandas as pd
 import glob
 import os
+from Logger.logger import Logger
 
 class Data_Validation:
 
-    def __init__(self):
-        self.schema_path = "Data_Validation/schema_training.json"
-        self.path = "Training_Batch_Files"
+    def __init__(self,path,schema_path):
+        self.schema_path = schema_path
+        self.path = path
+        self.logger = Logger()
 
 
     def getValuesFromSchema(self):
-        f = open(self.schema_path,"r")
-        dic = json.load(f)
+        try:
+            f = open(self.schema_path, "r")
+            dic = json.load(f)
+            f.close()
 
-        lengthOfDateStampInFile = dic['LengthOfDateStampInFile']
-        lengthOfTimeStampInFile = dic['LengthOfTimeStampInFile']
-        numberofColumns = dic['NumberofColumns']
-        sampleFileName = dic['SampleFileName']
-        column_names = dic["ColName"]
+            lengthOfDateStampInFile = dic['LengthOfDateStampInFile']
+            lengthOfTimeStampInFile = dic['LengthOfTimeStampInFile']
+            numberofColumns = dic['NumberofColumns']
+            sampleFileName = dic['SampleFileName']
+            column_names = dic["ColName"]
+            file = open("Training_Logs/valuesfromSchemaValidationLog.txt", 'a+')
+            message = "LengthOfDateStampInFile:: %s" % lengthOfDateStampInFile + "\t" + "LengthOfTimeStampInFile:: %s" % lengthOfTimeStampInFile + "\t " + "NumberofColumns:: %s" % numberofColumns + "\n"
+            self.logger.log(file, message)
+
+            file.close()
+
+        except ValueError:
+            file = open("Training_Logs/valuesfromSchemaValidationLog.txt", 'a+')
+            self.logger.log(file,"ValueError:Value not found inside schema_training.json")
+            file.close()
+            raise ValueError
+
+        except KeyError:
+            file = open("Training_Logs/valuesfromSchemaValidationLog.txt", 'a+')
+            self.logger.log(file, "KeyError:Key value error incorrect key passed")
+            file.close()
+            raise KeyError
+
+        except Exception as e:
+            file = open("Training_Logs/valuesfromSchemaValidationLog.txt", 'a+')
+            self.logger.log(file, str(e))
+            file.close()
+            raise e
 
         return lengthOfTimeStampInFile, lengthOfDateStampInFile,numberofColumns,sampleFileName,column_names
 
@@ -32,36 +59,80 @@ class Data_Validation:
         regex = "['wafer']+['\_']+[\d_]+[\d]+\.csv"
         return regex
 
-    def validatefile(self,regex,lengthOfDateStampInFile,lengthOfTimeStampInFile):
-        for filename in listdir(self.path):
+    def validatefile(self,lengthOfDateStampInFile,lengthOfTimeStampInFile):
 
-            extension = filename.split(".")[1]
-            if extension == "csv":
+        try:
+            f = open("Training_Logs/nameValidationLog.txt", 'a+')
 
-                name = filename.split(".")[0]
-                name = name.split("_")
+            for filename in listdir(self.path):
 
-                if ((name[0]=="Wafer" or name[0]=="wafer") and len(name[1]) == lengthOfDateStampInFile and len(name[2])==lengthOfTimeStampInFile):
+                extension = filename.split(".")[1]
+                if extension == "csv":
 
-                    shutil.copy("Training_Batch_Files/" + filename, "Good_Raw_Files")
+                    name = filename.split(".")[0]
+                    name = name.split("_")
+
+                    if ((name[0] == "Wafer" or name[0] == "wafer") and len(name[1]) == lengthOfDateStampInFile and len(
+                            name[2]) == lengthOfTimeStampInFile):
+
+                        shutil.copy(os.path.join(self.path, filename), "Good_Raw_Files")
+                        self.logger.log(f, "Valid File name!! File moved to GoodRaw Folder :: %s" % filename)
+
+                    else:
+                        shutil.copy(os.path.join(self.path, filename), "Bad_Raw_Files")
+                        self.logger.log(f, "Invalid File Name!! File moved to Bad Raw Folder :: %s" % filename)
+
                 else:
-                    shutil.copy("Training_Batch_Files/" + filename, "Bad_Raw_Files")
-            else:
-                shutil.copy("Training_Batch_Files/" + filename, "Bad_Raw_Files")
+                    shutil.copy(os.path.join(self.path, filename), "Bad_Raw_Files")
+                    self.logger.log(f, "Invalid File Name!! File moved to Bad Raw Folder :: %s" % filename)
+            f.close()
+
+        except Exception as e:
+            f = open("Training_Logs/nameValidationLog.txt", 'a+')
+            self.logger.log(f, "Error occured while validating FileName %s" % e)
+            f.close()
+            raise e
+
+
 
 
     def validateColumn(self,numberofColumns):
-        for file in listdir("Good_Raw_Files"):
-            df = pd.read_csv("Good_Raw_Files/"+file)
-            if numberofColumns == df.shape[1]:
-                pass
-            else:
-                shutil.move("Good_Raw_Files/" + file, "Bad_Raw_Files")
+
+        try:
+            f = open("Training_Logs/columnValidationLog.txt", 'a+')
+            self.logger.log(f, "Column Length Validation Started!!")
+            for file in listdir("Good_Raw_Files"):
+                df = pd.read_csv("Good_Raw_Files/" + file)
+                if numberofColumns == df.shape[1]:
+                    pass
+                    self.logger.log(f, "Valid file!! :: %s" % file)
+
+                else:
+                    shutil.move("Good_Raw_Files/" + file, "Bad_Raw_Files")
+                    self.logger.log(f, "Invalid Column Length for the file!! File moved to Bad Raw Folder :: %s" % file)
+
+
+
+        except OSError:
+            f = open("Training_Logs/columnValidationLog.txt", 'a+')
+            self.logger.log(f, "Error Occured while moving the file :: %s" % OSError)
+            f.close()
+            raise OSError
+
+        except Exception as e:
+            f = open("Training_Logs/columnValidationLog.txt", 'a+')
+            self.logger.log(f, "Error Occured:: %s" % e)
+            f.close()
+            raise e
+
+        f.close()
+
 
     def validateMissingValuesInWholeColumn(self):
 
         try:
-
+            f = open("Training_Logs/missingValuesInColumn.txt", 'a+')
+            self.logger.log(f, "Missing Values Validation Started!!")
 
             for file in listdir('Good_Raw_Files'):
                 csv = pd.read_csv("Good_Raw_Files/" + file)
@@ -71,36 +142,63 @@ class Data_Validation:
                         count += 1
                         shutil.move("Good_Raw_Files/" + file,
                                     "Bad_Raw_Files")
+                        self.logger.log(f,"Invalid Column Length for the file!! File moved to Bad Raw Folder :: %s" % file)
+
 
                         break
                 if count == 0:
                     csv.rename(columns={"Unnamed: 0": "Wafer"}, inplace=True)
                     csv.to_csv("Good_Raw_Files/" + file, index=None, header=True)
         except OSError:
-           pass
+            f = open("Training_Logs/missingValuesInColumn.txt", 'a+')
+            self.logger.log(f, "Error Occured while moving the file :: %s" % OSError)
+            f.close()
+            raise OSError
+
         except Exception as e:
-           pass
+            f = open("Training_Logs/missingValuesInColumn.txt", 'a+')
+            self.logger.log(f, "Error Occured:: %s" % e)
+            f.close()
+            raise e
+
+    def mergeFiles(self,filename):
+
+        try:
+            f = open("Training_Logs/Training_Logs_General.txt", 'a+')
+            files = os.path.join("Good_Raw_Files", "*.csv")
+
+            files = glob.glob(files)
+
+            df = pd.concat(map(pd.read_csv, files), ignore_index=True)
+            self.logger.log(f, "Training Batch Files Merged")
+            df.iloc[:, 1:].to_csv(filename + ".csv")
+            self.logger.log(f, "Training Batch Files exported to CSV")
+            f.close()
+
+        except Exception as e:
+            self.logger.log(f, "Error Occured:: %s" % e)
+            f.close()
+            raise e
 
 
-    def mergeFiles(self):
-
-
-        files = os.path.join("Good_Raw_Files", "*.csv")
-
-
-        files = glob.glob(files)
-
-        df = pd.concat(map(pd.read_csv, files), ignore_index=True)
-        df.iloc[:, 1:].to_csv("Training_Data.csv")
 
 
     def deleteRawFiles(self):
 
-        dir = 'Good_Raw_Files'
-        for f in os.listdir(dir):
-            os.remove(os.path.join(dir, f))
+        try:
+            dir = 'Good_Raw_Files'
+            for f in os.listdir(dir):
+                os.remove(os.path.join(dir, f))
 
-        dir = 'Bad_Raw_Files'
-        for f in os.listdir(dir):
-            os.remove(os.path.join(dir, f))
+            dir = 'Bad_Raw_Files'
+            for f in os.listdir(dir):
+                os.remove(os.path.join(dir, f))
+
+        except Exception as e:
+            f = open("Training_Logs/Training_Logs_General.txt", 'a+')
+            self.logger.log(f, "Error Occured:: %s" % e)
+            f.close()
+            raise e
+
+
 
