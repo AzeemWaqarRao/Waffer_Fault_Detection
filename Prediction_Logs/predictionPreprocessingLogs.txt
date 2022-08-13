@@ -124,3 +124,9 @@
 2022-08-12/21:52:29		Preprocessing : imputing null values Successfully
 2022-08-12/21:52:31		Preprocessing : drop column with 0 std Successfully
 2022-08-12/21:52:32		Prediction Data Preprocessing Completed
+2022-08-12/22:08:41		Prediction Data Preprocessing Started
+2022-08-12/22:08:41		Preprocessing : Columns Removed Successfully
+2022-08-12/22:08:41		Preprocessing : Null values count saved in null_data_count_prediction.csv
+2022-08-12/22:08:45		Preprocessing : imputing null values Successfully
+2022-08-12/22:08:49		Preprocessing : drop column with 0 std Successfully
+2022-08-12/22:08:50		Prediction Data Preprocessing Completed

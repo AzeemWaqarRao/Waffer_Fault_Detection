@@ -13,3 +13,8 @@
 2022-08-11/01:35:26		Clusters Created!
 2022-08-11/01:35:26		Kmeans Trained Model Saved!
 2022-08-11/01:35:26		Clustering Completed!
+2022-08-13/12:35:11		Clustering Started!
+2022-08-13/12:35:14		optimum value of k is : 3
+2022-08-13/12:35:14		Clusters Created!
+2022-08-13/12:35:14		Kmeans Trained Model Saved!
+2022-08-13/12:35:14		Clustering Completed!

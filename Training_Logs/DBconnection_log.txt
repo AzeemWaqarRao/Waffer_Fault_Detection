@@ -44,3 +44,7 @@
 2022-08-12/15:11:53		DataBase Prediction_Data connection Established
 2022-08-12/21:52:20		DataBase Prediction_Data connection Established
 2022-08-12/21:52:25		DataBase Prediction_Data connection Established
+2022-08-12/22:08:36		DataBase Prediction_Data connection Established
+2022-08-12/22:08:41		DataBase Prediction_Data connection Established
+2022-08-13/12:35:01		DataBase Training_Data connection Established
+2022-08-13/12:35:04		DataBase Training_Data connection Established

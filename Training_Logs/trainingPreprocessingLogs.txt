@@ -212,3 +212,28 @@
 2022-08-12/21:52:17		Null values added in file :: wafer_28012020_090817.csv
 2022-08-12/21:52:17		Null values added in file :: wafer_28042020_031911.csv
 2022-08-12/21:52:17		Null values added in file :: wafer_29012020_050617.csv
+2022-08-12/22:08:33		Null values added in file :: wafer_13012020_090817.csv
+2022-08-12/22:08:34		Null values added in file :: wafer_16012020_051629.csv
+2022-08-12/22:08:34		Null values added in file :: wafer_20022020_090716.csv
+2022-08-12/22:08:34		Null values added in file :: wafer_21012020_080913.csv
+2022-08-12/22:08:34		Null values added in file :: wafer_23012020_041211.csv
+2022-08-12/22:08:34		Null values added in file :: wafer_27012020_080911.csv
+2022-08-12/22:08:35		Null values added in file :: wafer_28012020_090817.csv
+2022-08-12/22:08:35		Null values added in file :: wafer_28042020_031911.csv
+2022-08-12/22:08:35		Null values added in file :: wafer_29012020_050617.csv
+2022-08-13/12:35:04		Training Data Preprocessing Started
+2022-08-13/12:35:04		Preprocessing : Columns Removed Successfully
+2022-08-13/12:35:05		Preprocessing : Label separation Successfully
+2022-08-13/12:35:05		Preprocessing : Null values count saved in null_data_count_training.csv
+2022-08-13/12:35:06		Preprocessing : imputing null values Successfully
+2022-08-13/12:35:10		Preprocessing : drop column with 0 std Successfully
+2022-08-13/12:35:11		Training Data Preprocessing Completed
+2022-08-13/12:34:59		Null values added in file :: wafer_13012020_090817.csv
+2022-08-13/12:34:59		Null values added in file :: wafer_16012020_051629.csv
+2022-08-13/12:34:59		Null values added in file :: wafer_20022020_090716.csv
+2022-08-13/12:34:59		Null values added in file :: wafer_21012020_080913.csv
+2022-08-13/12:34:59		Null values added in file :: wafer_23012020_041211.csv
+2022-08-13/12:35:00		Null values added in file :: wafer_27012020_080911.csv
+2022-08-13/12:35:00		Null values added in file :: wafer_28012020_090817.csv
+2022-08-13/12:35:00		Null values added in file :: wafer_28042020_031911.csv
+2022-08-13/12:35:00		Null values added in file :: wafer_29012020_050617.csv

@@ -1,4 +1,5 @@
 import json
+import sys
 from os import listdir
 import re
 import shutil
@@ -103,8 +104,12 @@ class Data_Validation:
             self.logger.log(f, "Column Length Validation Started!!")
             for file in listdir("Good_Raw_Files"):
                 df = pd.read_csv("Good_Raw_Files/" + file)
+                print("validate column")
+                print(numberofColumns)
+                print(df.shape[1])
+
                 if numberofColumns == df.shape[1]:
-                    pass
+
                     self.logger.log(f, "Valid file!! :: %s" % file)
 
                 else:
@@ -176,7 +181,11 @@ class Data_Validation:
             f.close()
 
         except Exception as e:
+            exc_type, exc_obj, exc_tb = sys.exc_info()
+            fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+
             self.logger.log(f, "Error Occured:: %s" % e)
+            self.logger.log(f, str(exc_type) +" "+ str(fname)+" "+ str(exc_tb.tb_lineno))
             f.close()
             raise e
 

@@ -21,3 +21,5 @@
 2022-08-12/15:09:52		Table Already Exists
 2022-08-12/15:11:53		Table Already Exists
 2022-08-12/21:52:25		Table Created
+2022-08-12/22:08:41		Table Created
+2022-08-13/12:35:04		Table Created

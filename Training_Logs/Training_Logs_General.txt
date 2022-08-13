@@ -78,3 +78,35 @@
 2022-08-12/15:11:53		Training Batch Files exported to CSV
 2022-08-12/21:52:18		Training Batch Files Merged
 2022-08-12/21:52:20		Training Batch Files exported to CSV
+2022-08-12/22:08:36		Training Batch Files Merged
+2022-08-12/22:08:36		Training Batch Files exported to CSV
+2022-08-12/22:17:42		Error Occured:: No objects to concatenate
+2022-08-12/22:17:41		Training Validation Started.
+2022-08-12/22:17:42		Training Validation Completed.
+2022-08-12/22:28:14		Error Occured:: No objects to concatenate
+2022-08-12/22:28:13		Training Validation Started.
+2022-08-12/22:28:14		Training Validation Completed.
+2022-08-12/22:28:55		Error Occured:: No objects to concatenate
+2022-08-12/22:28:54		Training Validation Started.
+2022-08-12/22:28:55		Training Validation Completed.
+2022-08-12/22:36:00		Error Occured:: No objects to concatenate
+2022-08-12/22:36:00		<class 'ValueError'> validate_data.py 173
+2022-08-12/22:42:28		Error Occured:: No objects to concatenate
+2022-08-12/22:42:28		<class 'ValueError'> validate_data.py 173
+2022-08-12/22:46:11		Error Occured:: No objects to concatenate
+2022-08-12/22:46:11		<class 'ValueError'> validate_data.py 177
+2022-08-12/22:51:45		Training Validation Started.
+2022-08-12/22:52:24		Training Validation Started.
+2022-08-12/22:53:39		Training Validation Started.
+2022-08-13/12:33:57		Error Occured:: No objects to concatenate
+2022-08-13/12:33:57		<class 'ValueError'> validate_data.py 177
+2022-08-13/12:33:56		Training Validation Started.
+2022-08-13/12:33:57		Training Validation Completed.
+2022-08-13/12:35:00		Training Batch Files Merged
+2022-08-13/12:35:01		Training Batch Files exported to CSV
+2022-08-13/12:34:56		Training Validation Started.
+2022-08-13/12:34:59		Training Validation Completed.
+2022-08-13/12:35:01		Training Preprocessing Completed.
+2022-08-13/12:35:04		DataBase Created.
+2022-08-13/12:35:04		Training Data stored to DataBase.
+2022-08-13/12:35:04		Raw Files Deleted.

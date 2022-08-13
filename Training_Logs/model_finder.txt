@@ -27,3 +27,32 @@
 2022-08-11/01:53:13		Best Model Found for cluster 2 Model : XGBoost
 2022-08-11/01:53:13		Model : XGBoost saved!!
 2022-08-11/01:53:13		Finding Best Model Completed!!
+2022-08-13/12:35:14		Finding Best Model Started!!
+2022-08-13/12:35:14		Finding Best Model for cluster 1
+2022-08-13/12:35:14		Entered Find Model Method
+2022-08-13/12:35:14		Entered Find Best XGBoost Method!!
+2022-08-13/12:41:28		Best XGBoost Method Found!!
+2022-08-13/12:41:28		Entered Find Best Random Forest Method!!
+2022-08-13/12:42:04		Best Random Forest Method Found!!
+2022-08-13/12:42:04		Exiting Find Model Method!!
+2022-08-13/12:42:04		Best Model Found for cluster 1 Model : XGBoost
+2022-08-13/12:42:04		Model : XGBoost saved!!
+2022-08-13/12:42:04		Finding Best Model for cluster 0
+2022-08-13/12:42:04		Entered Find Model Method
+2022-08-13/12:42:04		Entered Find Best XGBoost Method!!
+2022-08-13/12:44:26		Best XGBoost Method Found!!
+2022-08-13/12:44:26		Entered Find Best Random Forest Method!!
+2022-08-13/12:44:50		Best Random Forest Method Found!!
+2022-08-13/12:44:50		Exiting Find Model Method!!
+2022-08-13/12:44:50		Best Model Found for cluster 0 Model : XGBoost
+2022-08-13/12:44:50		Model : XGBoost saved!!
+2022-08-13/12:44:50		Finding Best Model for cluster 2
+2022-08-13/12:44:50		Entered Find Model Method
+2022-08-13/12:44:50		Entered Find Best XGBoost Method!!
+2022-08-13/12:48:20		Best XGBoost Method Found!!
+2022-08-13/12:48:20		Entered Find Best Random Forest Method!!
+2022-08-13/12:48:51		Best Random Forest Method Found!!
+2022-08-13/12:48:51		Exiting Find Model Method!!
+2022-08-13/12:48:51		Best Model Found for cluster 2 Model : XGBoost
+2022-08-13/12:48:51		Model : XGBoost saved!!
+2022-08-13/12:48:51		Finding Best Model Completed!!

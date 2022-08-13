@@ -358,3 +358,21 @@
 2022-08-12/21:52:33		Computation Completed
 2022-08-12/21:52:33		Prediction cluster 2 stored in prediction.csv 
 2022-08-12/21:52:33		Prediction Completed
+2022-08-12/22:08:50		Prediction Started
+2022-08-12/22:08:50		Kmeans Loaded
+2022-08-12/22:08:50		Prediction Started for cluster 1
+2022-08-12/22:08:50		Model Loaded : XGBoost1
+2022-08-12/22:08:50		Computation Started
+2022-08-12/22:08:50		Computation Completed
+2022-08-12/22:08:50		Prediction cluster 1 stored in prediction.csv 
+2022-08-12/22:08:50		Prediction Started for cluster 0
+2022-08-12/22:08:50		Model Loaded : XGBoost0
+2022-08-12/22:08:50		Computation Started
+2022-08-12/22:08:50		Computation Completed
+2022-08-12/22:08:50		Prediction cluster 0 stored in prediction.csv 
+2022-08-12/22:08:50		Prediction Started for cluster 2
+2022-08-12/22:08:50		Model Loaded : XGBoost2
+2022-08-12/22:08:50		Computation Started
+2022-08-12/22:08:50		Computation Completed
+2022-08-12/22:08:50		Prediction cluster 2 stored in prediction.csv 
+2022-08-12/22:08:50		Prediction Completed

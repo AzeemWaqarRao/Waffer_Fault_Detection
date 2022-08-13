@@ -1,3 +1,5 @@
+import sys
+
 import pandas as pd
 from wsgiref import simple_server
 from flask import Flask, request, render_template
@@ -40,7 +42,8 @@ def home():
 def trainRouteClient():
     try:
         deleteDB(os.path.join("DataBase","Training_Data.db"))
-        path = request.json['path']
+        path = request.form['path']
+        print(path)
         tv = Training_Validation(path)
         tv.validate_data()
 
@@ -56,12 +59,21 @@ def trainRouteClient():
         model_finder.get_model()
 
     except ValueError:
+        exc_type, exc_obj, exc_tb = sys.exc_info()
+        fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+        print(exc_type, fname, exc_tb.tb_lineno)
         return Response("Error Occurred! %s" % ValueError)
 
     except KeyError:
+        exc_type, exc_obj, exc_tb = sys.exc_info()
+        fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+        print(exc_type, fname, exc_tb.tb_lineno)
         return Response("Error Occurred! %s" % KeyError)
 
     except Exception as e:
+        exc_type, exc_obj, exc_tb = sys.exc_info()
+        fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+        print(exc_type, fname, exc_tb.tb_lineno)
         return Response("Error Occurred! %s" % e)
 
     return Response("Training successfull!!")
@@ -91,7 +103,6 @@ def predictRouteClient():
         df_list = df.values.tolist()
         df = jsonpify(df_list)
         return df
-
 
     except ValueError:
         return Response("Error Occurred! %s" % ValueError)
