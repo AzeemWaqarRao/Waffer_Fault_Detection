@@ -4,7 +4,7 @@
 The Waffer Fault Detection project in Python involves using machine learning algorithms to detect and classify defects on silicon waffers in semiconductor manufacturing.
 
 ## Dataset:
-For each Waffer we get values from 500+ sensors and based on that we tell wether the waffer is functioning(+1) or faulty(-1)<br />
+For each Waffer we get values from 500+ sensors and based on that we tell whether the waffer is functioning(+1) or faulty(-1)<br />
 [Click Here to get Data](https://drive.google.com/drive/folders/1R-za-a7adbyAnBMDYNWWWQbHuJzTVc0A?usp=share_link)
 
 
